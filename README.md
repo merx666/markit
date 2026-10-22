@@ -1,5 +1,7 @@
 # markit
 
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 Convert anything to markdown. PDF, DOCX, PPTX, XLSX, HTML, EPUB, Jupyter, RSS, images, audio, URLs, and more. Works as a CLI and as a library.
 
 ```bash
